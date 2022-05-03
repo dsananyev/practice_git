@@ -1,0 +1,3 @@
+UserName: dsananyev
+UserPsw: 12345
+Goal: Git Practice
