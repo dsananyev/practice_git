@@ -1,0 +1,3 @@
+UserName: Igor
+UserPsw: 98765
+Goal: Git practicing
